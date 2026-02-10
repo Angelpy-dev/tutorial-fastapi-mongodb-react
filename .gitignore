@@ -1,0 +1,16 @@
+#VIRTUAL ENVIRONMENT
+.venv/
+venv/
+env
+.env
+
+#VS CODE
+.vscode/
+
+#BACKEND
+__pycache__/
+*.pyc
+
+#FRONTEND
+node_modules/
+

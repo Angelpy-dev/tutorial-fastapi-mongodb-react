@@ -1,0 +1,8 @@
+# can add manually
+# or
+# add using"pip freeze  > requirements.txt" -- this one freeze packages exact with the versions
+
+fastapi
+uvicorn[standard]
+pymongo
+python-dotenv
